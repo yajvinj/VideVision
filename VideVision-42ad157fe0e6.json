@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "videvision-221321",
+  "private_key_id": "42ad157fe0e668e99ccfd006f87a113e7d43bf50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPfhA29jIoyfMZ\ntkOFbGnikZPae9qBxa7VBocsmjrOaHvWOXar59oTjiNB4+kslKdqz0+gYha2Ra6Z\n6U/KPLqGyvtoVo2K+3SoPi+SgV6qDVueTAERAdYbcvtb5/k2ne0S/k5kUBsRaqXw\nfkJ8Kg8PDFVRX5+9Ru1LsHPamBVz8OJRpd9TNnfEn6OiEXYz5OZYl9KcbopD1/84\ngWyzcGFuppb/YyKRv8/9Fqxg3vqEUYZoijkbZmiVI23Ca/IW9c+OGmchIThmv23X\nQLepPrrTZLSjv9zyUlA/Rrun21cUq7mGqVDDZAjG/lDazv3ruv9gECzZtrffeW6+\naCnpfNXTAgMBAAECggEAAVWguhHESdHer+QltAZ5+dyQ1F9mjN4eHT2hAe7uAOTY\nIw0Uj896bhTEckiKd+Bu4Td7Hh9zYPG6yT+gZT8VvgcxLb8cwu+SFQDtYmZVmwdh\n9vcrLJZT77JCHpmz1x+V5kDfdTK0sdx7O7w8JjtJBIJCTDcuulNp9EoqvJWs0aWQ\ngB2ytuPL0QwCsp5xfeVxGg7XhkZkObiOSXhUw0cBtT+e3zEDkG8uB+1vwZSfqLc9\n+4rfTx1Hr0ab64w60KoLcljlbu8hqNoYui5KpmBdcespVL5oUtXA3C5G25WWoLF+\nBCYl+PCmA3Th3JoF2M/7Jr41Ar+fQtY6zWt00BtpVQKBgQDnht+poWRtARvfrW2C\nbREiuaMEp4ScVnc1iUzUfdJB3LkIEn0uIaaepIXEPYm5MOwdgUVx0BPOC2ZvUUzD\nYU0DiVMyIgNoVJ28USdDtRiN9f3K/2bYSybRTf7hYBFuyW/28FVs/4uJMlQfaPh1\n4V9iiaI8AeV2Do/HaAlm47qN1QKBgQDlbNE+wGP8SFOixrMRom0fVOSo1ksbG12/\nCjynBhSQ/YiqERrxbrxJ4O/Yo9yMvDmPTC18S0TBrbKMxXP94ccY6iZkK2n6mIFN\nv8liisOWrQ1623jdBxXQ+bNUvyqm1Qe0OoRngd/QmUiE9zj0P+jYOOgrLRHvPaKC\nMq7Kk3ChBwKBgFaQN9mdTQXwTzKfDf2gt7JrA8c+trcZIPL0RbSA4nbbhpa9Cu6P\niFNyIc1QUMjbwLv7VDKMYIs9+euO0wuNupSi6GcrDmkYke0RzoNjFy4kleIrAZHG\n71l8Ntqe54WrbOA/1UCufsYp+gfQYGz6eYZG/VBASUGNijY88J72cA6NAoGAZs/a\nAU4EQJVE7agvrRJl5mmLwuGtbKtZ2nfC8HJ4GvWTHetmcJVYSZ9EvIfKGUNsY/wW\nUiIE4OpvHkiKD1bzewXLSI5wAr3/DBGLNN7MgaRxawIZaqt3KlwL8kls2rCSsECc\n/ymjW/6lEfkcC9DsDqGJ4XdkFxs+zSvbSqrCCVcCgYEAmIt3YkG21pzVuMBzNmX5\nhaEbAYtCvVam3NU+NRjdbwrz7TtRSSiTR2RdTmoVuaFipa4+CTebUPNSLGf96N9N\nU93uU/aDgpMwK033RNDkJgOYi+N1RpY5ZBITuXhe+ol+sT625ZMpNRH4RVcr2AN5\nK03MZqUmAo4cIxlk7kkgMXQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kunj-569@videvision-221321.iam.gserviceaccount.com",
+  "client_id": "103961234098811980938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kunj-569%40videvision-221321.iam.gserviceaccount.com"
+}
